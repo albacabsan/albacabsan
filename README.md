@@ -15,3 +15,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+# 🌐 Lenguajes más utilizados:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=albacabsan&layout=compact&theme=radical)
