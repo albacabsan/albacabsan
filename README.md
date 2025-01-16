@@ -1,8 +1,8 @@
-## Sobre mi 👋
+# Sobre mi 👋
 - 😄 Soy Alba Cabello Sánchez
 - ⚡ Actualmente estudio 2º Desarrollo de Aplicaciones Multiplataforma en CPIFP Alan Turing (Málaga)
 
-# 💻 Habilidades:
+## 💻 Habilidades:
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -16,6 +16,3 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-# 🌐 Lenguajes más utilizados:
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=albacabsan&layout=compact&theme=radical)
