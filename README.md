@@ -1,12 +1,12 @@
 # 👋 ¡Hola, soy Alba Cabello Sánchez!
 
-💻 Desarrolladora Fullstack Junior | Especializándome en IA y Big Data  
+💻 Desarrolladora Fullstack Junior | Especializándome en IA y Big Data
 
 ---
 
 ## 🚀 Sobre mí
 
-🎓 Cursando el Curso de Especialización en IA y Big Data en IES Portada Alta (Málaga).
+🎓 Cursando el Curso de Especialización en IA y Big Data en IES Portada Alta (Málaga).  
 🤖 En mi día a día, estoy especializada en el **desarrollo asistido por Inteligencia Artificial**, trabajando activamente con **Claude Code** y entornos basados en **agentes autónomos** para optimizar el ciclo de desarrollo de software.
 
 ---
@@ -14,7 +14,7 @@
 ## 📝 Proyectos en los que he colaborado
 
 ### 🍴 [Fast Fork](https://github.com/javirkdev/fast-fork)
-Una aplicación web interactiva diseñada para la gestión y optimización de pedidos en restaurantes. Permite a los usuarios hacer reservas, explorar menús, gestionar comandas en tiempo real, controlar mesas e integrarse con sistemas de pago para agilizar la experiencia gastronómica.
+Una aplicación web interactiva diseñada para la gestión y optimización de pedidos en restaurantes. Permite a los usuarios hacer reservas, explorar menús, gestionar comandas en tiempo real, controlar mesas e integrarse con sistemas de pago para agilizar la experiencia gastronómica. Cuenta con interfaces dedicadas y flujos específicos tanto para el cliente, como para el camarero y el cocinero.
 * **Tecnologías:**
   * **Frontend:** React + Vite (JavaScript)
   * **Backend:** Spring Boot (Java)
@@ -23,7 +23,7 @@ Una aplicación web interactiva diseñada para la gestión y optimización de pe
 * **Colaboradores:** [javirkdev](https://github.com/javirkdev)
 
 ### 🛍️ [Turing Clothes - E-commerce](https://github.com/manugym/E-commerce)
-Plataforma de comercio electrónico completa enfocada en la venta de ropa. Incluye pasarela de productos, filtros de búsqueda, carrito de compras dinámico, un diseño totalmente responsivo adaptado a cualquier dispositivo y sistema de pagos con trajeta de crédito/débito (Stripe) y con criptomonedas (Ethereum).
+Plataforma de comercio electrónico completa enfocada en la venta de ropa. Incluye pasarela de productos, filtros de búsqueda, carrito de compras dinámico, un diseño totalmente responsivo adaptado a cualquier dispositivo y un sistema híbrido de pagos con tarjeta de crédito/débito (Stripe) y con criptomonedas (Ethereum).
 * **Tecnologías:**
   * **Frontend:** Angular
   * **Backend:** C# con ASP.NET
@@ -35,6 +35,7 @@ Aplicación móvil nativa para Android enfocada en los amantes de la música en 
 * **Tecnologías:**
   * **Entorno:** Android Studio
   * **Lenguaje:** Kotlin
+
 ---
 
 ## 🛠️ Tecnologías y herramientas
