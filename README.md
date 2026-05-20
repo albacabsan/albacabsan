@@ -1,32 +1,60 @@
 # 👋 ¡Hola, soy Alba Cabello Sánchez!
 
-💻 Desarrolladora Fullstack Junior | Apasionada por la tecnología y el desarrollo de software  
+💻 Desarrolladora Fullstack Junior | Especializándome en IA y Big Data  
 
 ---
 
 ## 🚀 Sobre mí
 
-🎓 Cursando 2º Desarrollo de Aplicaciones Multiplataforma en CPIFP Alan Turing (Málaga).  
-🌱 Actualmente profundizando en **Spring Boot** y **React**.  
+🎓 Cursando el Curso de Especialización en IA y Big Data en IES Portada Alta (Málaga).
+🤖 En mi día a día, estoy especializada en el **desarrollo asistido por Inteligencia Artificial**, trabajando activamente con **Claude Code** y entornos basados en **agentes autónomos** para optimizar el ciclo de desarrollo de software.
 
+---
+
+## 📝 Proyectos en los que he colaborado
+
+### 🍴 [Fast Fork](https://github.com/javirkdev/fast-fork)
+Una aplicación web interactiva diseñada para la gestión y optimización de pedidos en restaurantes. Permite a los usuarios hacer reservas, explorar menús, gestionar comandas en tiempo real, controlar mesas e integrarse con sistemas de pago para agilizar la experiencia gastronómica.
+* **Tecnologías:**
+  * **Frontend:** React + Vite (JavaScript)
+  * **Backend:** Spring Boot (Java)
+  * **Móvil:** React Native + Expo (TypeScript)
+* **Despliegue en vivo:** https://fast-fork.vercel.app/
+* **Colaboradores:** [javirkdev](https://github.com/javirkdev)
+
+### 🛍️ [Turing Clothes - E-commerce](https://github.com/manugym/E-commerce)
+Plataforma de comercio electrónico completa enfocada en la venta de ropa. Incluye pasarela de productos, filtros de búsqueda, carrito de compras dinámico, un diseño totalmente responsivo adaptado a cualquier dispositivo y sistema de pagos con trajeta de crédito/débito (Stripe) y con criptomonedas (Ethereum).
+* **Tecnologías:**
+  * **Frontend:** Angular
+  * **Backend:** C# con ASP.NET
+* **Despliegue en vivo:** https://turingclothes.vercel.app/
+* **Colaboradores:** [manugym](https://github.com/manugym) y [javirkdev](https://github.com/javirkdev)
+
+### 🎵 [MusicAlive](https://github.com/albacabsan/MusicAlive)
+Aplicación móvil nativa para Android enfocada en los amantes de la música en vivo y los conciertos. La app conecta con APIs externas REST para consumir y mostrar datos en tiempo real sobre eventos musicales, artistas y fechas.
+* **Tecnologías:**
+  * **Entorno:** Android Studio
+  * **Lenguaje:** Kotlin
 ---
 
 ## 🛠️ Tecnologías y herramientas
 
-### 💻 Backend
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+### 🤖 Inteligencia Artificial & Agentes
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 💻 Desarrollo Fullstack (Ecosistemas)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-
-### 🌐 Frontend
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🗄️ Bases de datos
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -39,7 +67,7 @@
 
 ---
 
-💼 **LinkedIn:** [linkedin.com/in/alba-cabello-sánchez-4035012b7](https://linkedin.com/in/alba-cabello-sánchez-4035012b7)  
+💼 **LinkedIn:** [linkedin.com/in/alba-cabello-sánchez-4035012b7](https://linkedin.com/in/alba-cabello-sánchez-4035012b7)   
 
 ---
 
